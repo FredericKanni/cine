@@ -1,0 +1,65 @@
+
+/*
+div#colonne1 {
+	float: left;
+	width: 160px;
+	background: lightblue;
+}
+
+div#colonne2 {
+	float: right;
+	width: 300px;
+	background: burlywood;
+}
+
+div#centre {
+	background: khaki;
+}
+
+div#centre {
+	margin-left: 170px;
+	margin-right: 310px;
+
+}
+
+div#colonne1 {
+	float: left;
+	width: 160px;
+	margin-right: 10px;
+	background: lightblue;
+}
+div#colonne2 {
+	float: right;
+	width: 300px;
+	margin-left: 10px;
+	background: burlywood;
+}
+div#centre {
+	overflow: hidden;
+	background: khaki;
+}
+
+p{
+	background-color : black;
+}
+*/
+
+.mystyle{
+	background: rgb(0, 155, 0);
+
+}
+
+.range0{
+	width: 7vw;
+	background:red;
+
+}
+
+
+.bloc{
+	
+	background-color:rgb(237, 255, 158);
+	border: 1px solid black;
+	width: 100%;
+
+}
